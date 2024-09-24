@@ -41,3 +41,6 @@ BASIC HTML BOILERPLATE..
     <script src="./js/main.js"></script>
   </body>
 </html>
+
+![food-img](https://github.com/user-attachments/assets/9281e25f-9745-410a-b798-6bdeceb5387c)
+
